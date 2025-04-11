@@ -17,7 +17,7 @@ a{
     text-decoration: none;
 }
 
-img{
+header img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -31,4 +31,13 @@ img{
 }
 h2{
     color: azure;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
 }
